@@ -34,3 +34,7 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          
+      - name: Waka - Readme
+        uses: athul/waka-readme@v0.1.8
+
