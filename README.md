@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=xdewx)
+![](https://github-readme-stats.vercel.app/api?username=xdewx&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xdewx&layout=compact)
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
